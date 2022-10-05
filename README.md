@@ -1,3 +1,3 @@
 # Software Engineering Portfolio
 
-This website contains projects that I ahve worked on to show to prospective employers.
+This website contains projects that I have worked on to show to prospective employers.
